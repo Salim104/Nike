@@ -16,6 +16,15 @@ const App = () => (
   <section className="padding">
    specialoffer
   </section>
+  <section className="padding">
+   customer review
+  </section>
+  <section className="padding">
+   subscribe
+  </section>
+  <section className="padding">
+   footer
+  </section>
 
  </main>
 )
